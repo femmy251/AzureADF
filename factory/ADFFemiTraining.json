@@ -1,9 +1,9 @@
 {
 	"name": "ADFFemiTraining",
-	"location": "westus",
+	"location": "eastus2",
 	"identity": {
 		"type": "SystemAssigned",
-		"principalId": "0f8969a4-7671-46e3-9b7c-74301bc42ef6",
+		"principalId": "f9fd2ca6-4f1a-4735-8a0b-1d0e26aac3a6",
 		"tenantId": "9f731776-245f-49ad-9396-15b15fa07ec7"
 	}
 }
