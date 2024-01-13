@@ -1,0 +1,9 @@
+{
+	"name": "ADFFemiTraining",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0f8969a4-7671-46e3-9b7c-74301bc42ef6",
+		"tenantId": "9f731776-245f-49ad-9396-15b15fa07ec7"
+	}
+}
