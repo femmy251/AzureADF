@@ -3,12 +3,9 @@
 	"contentVersion": "1.0.0.0",
 	"parameters": {
 		"factoryName": {
-			"value": "ADFFemiTraining"
+			"value": "adffemitraining"
 		},
 		"AzureBlobStorage1_connectionString": {
-			"value": ""
-		},
-		"AzureSqlDatabase1_connectionString": {
 			"value": ""
 		}
 	}
