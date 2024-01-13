@@ -1,0 +1,9 @@
+{
+	"name": "ADFTestingFemi",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aa2ba9e0-da15-468f-b847-06dc4fdcd5ec",
+		"tenantId": "9f731776-245f-49ad-9396-15b15fa07ec7"
+	}
+}
