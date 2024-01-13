@@ -1,0 +1,9 @@
+{
+	"name": "RecoverADF",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d39da36d-fb1a-4973-b777-d520ed95dd37",
+		"tenantId": "9f731776-245f-49ad-9396-15b15fa07ec7"
+	}
+}
